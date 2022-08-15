@@ -2,7 +2,7 @@
 
 Full Stack CRUD applicaition that allows users to create projects, join a team, and assign tasks for individual enterprise.
 
-### Techonlogies
+### Technologies
 - Java
 - Spring Boot
 - Spring Data JPA
