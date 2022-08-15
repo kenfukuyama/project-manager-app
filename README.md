@@ -1,12 +1,12 @@
 # Project Manger Application with Java
 
-full CRUD applicaition allows users to create projects and assingn tasks for projects.
+Full Stack CRUD applicaition that allows users to create projects, join a team, and assign tasks for individual enterprise.
 
 ### Techonlogies
 - Java
 - Spring Boot
+- Spring Data JPA
 - MySQL
-- JPA Data
 - Bootstrap
 
 <hr/>
